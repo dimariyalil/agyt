@@ -1,5 +1,5 @@
-// Замените на ваш API ключ
-const API_KEY = 'AIzaSyBGLAgQ8nLKgU4oeUhf5q3-JT0SAsCSuuc';
+// API ключ удален из соображений безопасности
+const API_KEY = 'YOUR_API_KEY_HERE';
 
 function analyzeVideo() {
     const videoUrl = document.getElementById('videoUrl').value;
